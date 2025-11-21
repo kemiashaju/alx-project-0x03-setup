@@ -1,5 +1,9 @@
-export default function Home() {
+const Home = () => {
   return (
-    <h1>Welcome to Splash App</h1>
-  );
+   <div>
+    <h1> Welcome to Splash App </h1>
+   </div>
+  )
 }
+
+export default Home;
